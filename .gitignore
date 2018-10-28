@@ -6,7 +6,7 @@
 /docs/pages/dist/mapbox-gl.js
 *.js.map
 # node_modules
-# package-lock.json
+package-lock.json
 *.sublime-*
 coverage
 flow-coverage
